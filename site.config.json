@@ -1,0 +1,11 @@
+{
+  "name": "우도 키에키",
+  "theme": "cafe",
+  "domain": "udocafe.udosignature.com",
+  "baseUrl": "https://udocafe.udosignature.com/",
+  "project": "udosignature-udocafe",
+  "private": false,
+  "naverVerification": null,
+  "checkedAt": "2026-09-20",
+  "designUpdatedAt": "2026-09-23"
+}
